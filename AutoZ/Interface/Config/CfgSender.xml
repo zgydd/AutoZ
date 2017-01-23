@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sender>
+  <SharePath>E:\ShareE\FTPPath\share\</SharePath>
+  <ConfigPath>E:\Build\AutoZ\AutoZ\Interface\Config\</ConfigPath>
+  <ScriptPath>E:\Build\AutoZ\AutoZ\Script\</ScriptPath>
+  <BackDrvRoot>E:\Build\AutoZ\AutoZ\Drivers\</BackDrvRoot>
+  <DefaultHasCatFlg>true</DefaultHasCatFlg>
+  <SrvInfo>SrvsInfo.xml</SrvInfo>
+  <UpLogScript>UpLoadLogToServer.au3</UpLogScript>
+  <ClientDir>AutoZData</ClientDir>
+  <ClientWait>5000</ClientWait>
+  <ClientTimeOut>60000</ClientTimeOut>
+  <Client>
+    <xp username="a" password="b">111.111.111.111</xp>
+    <win2003 username="a" password="b">222.222.222.222</win2003>
+    <win2003r2 username="a" password="b">333.333.333.333</win2003r2>
+    <vista username="a" password="b">444.444.444.444</vista>
+    <win2008 username="a" password="b">555.555.555.555</win2008>
+    <win7 username="username" password="password">127.0.0.1</win7>
+    <win2008r2 username="a" password="b">777.777.777.777</win2008r2>
+    <win8 username="a" password="b">888.888.888.888</win8>
+    <win8.1 username="a" password="b">999.999.999.999</win8.1>
+    <win2012 username="a" password="b">000.000.000.000</win2012>
+    <win2012r2 username="a" password="b">123.123.123.123</win2012r2>
+  </Client>
+  <Lang>
+    <ENUS langflg="english" diskflg="english">English</ENUS>
+    <GERM langflg="deutsch" diskflg="deutsch">German</GERM>
+    <FREN langflg="francais" diskflg="francais">French</FREN>
+    <ITAL langflg="italiano" diskflg="italiano">Italian</ITAL>
+    <SPAN langflg="espanol" diskflg="espanol">Spanish</SPAN>
+    <DUTC langflg="nedrlnds" diskflg="nedrlnds">Dutch</DUTC>
+    <SWED langflg="svenska" diskflg="svenska">Swedish</SWED>
+    <DANI langflg="dansk" diskflg="dansk">Danish</DANI>
+    <NYNO langflg="norsk" diskflg="norsk">Norwegian</NYNO>
+    <PORT langflg="portugus" diskflg="portugus">Portuguese</PORT>
+    <FINN langflg="suomi" diskflg="suomi">Finnish</FINN>
+    <POLI langflg="polski" diskflg="polski">Polish</POLI>
+    <CZEC langflg="cesky" diskflg="cesky">Czech</CZEC>
+    <HUNG langflg="magyar" diskflg="magyar">Hungarian</HUNG>
+    <RUSS langflg="russian" diskflg="russian">Russian</RUSS>
+    <CATA langflg="catalan" diskflg="catalan">Catalan</CATA>
+    <TURK langflg="turkish" diskflg="turkce">Turkish</TURK>
+    <PTBR langflg="portbr" diskflg="portbr">Brazilian Portuguese</PTBR>
+    <CSIM langflg="SC" diskflg="CHIN_SIM">Simplified Chinese</CSIM>
+    <CTRA langflg="TC" diskflg="CHIN_TRA">Traditional Chinese</CTRA>
+    <KORE langflg="korean" diskflg="korean">Korean</KORE>
+  </Lang>
+  <ConfigFile>AllTestConfig.csv</ConfigFile>
+  <LogPath>Log\</LogPath>
+  <FTPDriversPath>DriversPackage\</FTPDriversPath>
+  <PkgType>exe</PkgType>
+  <SourceData>AutoZData.zip</SourceData>
+  <InforFileName>PkgConfig.csv</InforFileName>
+  <SrvInfoName>SrvsInfo.xml</SrvInfoName>
+  <LangTestFlg>langconfig_*.xls</LangTestFlg>
+</Sender>

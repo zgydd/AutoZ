@@ -1,0 +1,8 @@
+E:\Build\AutoZ\Clint\AutoZServers\obj\Debug\ResolveAssemblyReference.cache
+E:\Build\AutoZ\Clint\AutoZServers\obj\Debug\AutoZServers.MainService.resources
+E:\Build\AutoZ\Clint\AutoZServers\obj\Debug\AutoZServers.ProjectInstaller.resources
+E:\Build\AutoZ\Clint\AutoZServers\obj\Debug\AutoZServers.csproj.GenerateResource.Cache
+E:\Build\AutoZ\Clint\AutoZServers\obj\Debug\AutoZServers.exe
+E:\Build\AutoZ\Clint\AutoZServers\obj\Debug\AutoZServers.pdb
+E:\Build\AutoZ\Clint\AutoZServers.exe
+E:\Build\AutoZ\Clint\AutoZServers.pdb

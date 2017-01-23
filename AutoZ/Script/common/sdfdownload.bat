@@ -1,0 +1,1 @@
+plink.exe -ssh -pw rits200233 root@172.25.73.164 '/etc/tang/sdfdl/206/mshell_ZW'

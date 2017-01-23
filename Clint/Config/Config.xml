@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Clint>
+  <FTPPath>E:\ShareE\FTPPath\AutoZData\</FTPPath>
+  <FTPDriversPath>DriversPackage\</FTPDriversPath>
+  <SourceData>AutoZData.zip</SourceData>
+  <StartFlg>start.txt</StartFlg>
+  <RunPath>Main\</RunPath>
+  <AllTestName>AllTest.au3</AllTestName>
+  <DriverPath>Driver\</DriverPath>
+  <ScriptRoot>Script\</ScriptRoot>
+  <AddOnsRoot>AddOns\</AddOnsRoot>
+  <LogPath>Log\</LogPath>
+  <TimeTick>10000</TimeTick>
+  <InforFileName>PkgConfig.csv</InforFileName>
+  <PkgType>exe</PkgType>
+  <TempBatchName>tmpBatch.bat</TempBatchName>
+  <DiskFlg>OEMSETUP.INF</DiskFlg>
+  <AdditionalPrograms></AdditionalPrograms>
+  <AdditionalPath>Interface\</AdditionalPath>
+  <AdditionalBatch>tmpInterface.bat</AdditionalBatch>
+  <LangConfigDir>langconfig\</LangConfigDir>
+  <LangTestFlg>langconfig_*.xls</LangTestFlg>
+  <SrvInfo>SrvsInfo.xml</SrvInfo>
+  <SrvIpScript>UpLoadIPToServer.au3</SrvIpScript>
+  <UpLogScript>UpLoadLogToServer.au3</UpLogScript>
+</Clint>

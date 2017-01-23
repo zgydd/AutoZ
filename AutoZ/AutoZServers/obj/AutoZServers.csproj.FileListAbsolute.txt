@@ -1,0 +1,8 @@
+E:\Build\AutoZ\AutoZ\AutoZServers\obj\Debug\ResolveAssemblyReference.cache
+E:\Build\AutoZ\AutoZ\AutoZServers\obj\Debug\AutoZServers.MainService.resources
+E:\Build\AutoZ\AutoZ\AutoZServers\obj\Debug\AutoZServers.ProjectInstaller.resources
+E:\Build\AutoZ\AutoZ\AutoZServers\obj\Debug\AutoZServers.csproj.GenerateResource.Cache
+E:\Build\AutoZ\AutoZ\AutoZServers\obj\Debug\AutoZServers.exe
+E:\Build\AutoZ\AutoZ\AutoZServers\obj\Debug\AutoZServers.pdb
+E:\Build\AutoZ\AutoZ\AutoZServers.exe
+E:\Build\AutoZ\AutoZ\AutoZServers.pdb

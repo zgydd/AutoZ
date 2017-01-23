@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Every Root need to finished by \-->
+<driver>
+  <MultiRootDir>C:\</MultiRootDir>
+  <!--DriverRoot must finished by \-->
+  <DriverRoot>E:\Build\AutoZ\AutoZ\Drivers\</DriverRoot>
+  <AddOnsRoot>E:\Build\AutoZ\AutoZ\AddOns\</AddOnsRoot>
+  <!--PkgUpandDown.rb [Package root], 
+                      [MakeCat.strCATRoot(Writed as constant)]
+                      [Upload cat package file root when need to upload all package]
+                      [Upload which kind of package(0:No cat package; 1:Cat package; 2:All of them)]
+                      [OS type flag(0:x86 OS; 1:x64 OS)]
+                      [Need to download old package(Refer to PTClist.csv)(0:Don't download old package; other:Download old package) default:0]
+  -->
+  <UpDownCmd>ruby {0}PkgUpandDown.rb {1} CAT Mstr 1 {2}</UpDownCmd>
+  <neddUpAndDown>0</neddUpAndDown>
+  <FromGetter>false</FromGetter>
+  <GetterRange>SrvGetter.exe</GetterRange>
+  <GetterArgsRange></GetterArgsRange>
+  <!--Ranges need to split with ';'  Interface name must same as you need and no space in everywhere-->
+  <InterfacesRange>MakeCat.exe;RunScan.exe</InterfacesRange>
+  <AdditionalRange>Sender.exe</AdditionalRange>
+  <!--Args can defined in here and writte down same as xml key name and split with , in every single
+      When use directories as ArgsRange, please ensure the XML key's InnerText is full path like X:\aa\bb\cc\-->
+  <InterfacesArgsRange>DriverRoot,AddOnsRoot;DriverRoot,AddOnsRoot</InterfacesArgsRange>
+  <AdditionalArgsRange>DownedDrvRoot,AddOnsRoot</AdditionalArgsRange>
+
+  <DownedDrvRoot>E:\Build\AutoZ\AutoZ\Download\new\</DownedDrvRoot>
+
+  <SpecialPkgNameMark>{0}_SCTCK_{1}</SpecialPkgNameMark>
+  <OS>2K</OS>
+  <LogSplitLine>###################################################################################</LogSplitLine>
+  <!--In OEMTable.csv when use different csv data to fix different bat, bat name must same-->
+  <PnPCSVStartingFlg>Start flag for auto package</PnPCSVStartingFlg>
+  <PnPCSVEndingFlg>End flag for auto package</PnPCSVEndingFlg>
+  <CSVFileCount>2</CSVFileCount>
+  <RuntimeInterfaceName>RuntimeInterface.bat</RuntimeInterfaceName>
+  <UpDownBat>upDown.bat</UpDownBat>
+
+  <X86Flg>2K</X86Flg>
+  <!--Root must finished by \-->
+  <CommandPath>Script\</CommandPath>
+  <RunSDFBat>runRubySDF.bat</RunSDFBat>
+  <SDFCommand>ruby DownLoad.rb sdf-d</SDFCommand>
+  <!--Root must finished by \-->
+  <SDFRoot>Project\</SDFRoot>
+  <InterfaceRoot>Interface\</InterfaceRoot>
+  <InstallRoot>\Install</InstallRoot>
+  <LogRoot>Log\</LogRoot>
+  <CleanBat>\Batch\clean.bat</CleanBat>
+  <MakeMark>MAKE</MakeMark>
+  <OSMark>set OS=</OSMark>
+  <LangMark>set Language=</LangMark>
+  <OEMMark>set OEM=</OEMMark>
+  <ExcpMark>makeOEM.bat,MakePI.bat,makeword.bat</ExcpMark>
+  <AutoZsMark>_Atz_{0}</AutoZsMark>
+  <!--SpecialPkgNo must >1 because program need the first package to get the driver package's name-->
+  <SpecialPkgNo>2</SpecialPkgNo>
+  <SpecialPkgNameSplitMark>_</SpecialPkgNameSplitMark>
+  <MaxPkgNo>2</MaxPkgNo>
+  <CleanArg>clean</CleanArg>
+  <LittleCleanName>LittleClean.Bat</LittleCleanName>
+  <LittleCleanExcpMark>RD /S /Q install</LittleCleanExcpMark>
+  <PnPCSVFile>\INF\OEMTable{0}.csv</PnPCSVFile>
+  <ReadableFileType>.txt.bat</ReadableFileType>
+  <TmpCsvFlg>_tmp</TmpCsvFlg>
+  <SupportLang>
+    <ENUS checked="true" pakNo="1" nickName="">English</ENUS>
+    <GERM checked="false" pakNo="1" nickName="">German</GERM>
+    <FREN checked="false" pakNo="1" nickName="">French</FREN>
+    <ITAL checked="false" pakNo="1" nickName="">Italian</ITAL>
+    <SPAN checked="false" pakNo="1" nickName="">Spanish</SPAN>
+    <DUTC checked="false" pakNo="1" nickName="">Dutch</DUTC>
+    <SWED checked="false" pakNo="1" nickName="">Swedish</SWED>
+    <DANI checked="false" pakNo="1" nickName="">Danish</DANI>
+    <NYNO checked="false" pakNo="1" nickName="">Norwegian</NYNO>
+    <PORT checked="false" pakNo="1" nickName="">Portuguese</PORT>
+    <FINN checked="false" pakNo="1" nickName="">Finnish</FINN>
+    <POLI checked="false" pakNo="1" nickName="">Polish</POLI>
+    <CZEC checked="false" pakNo="1" nickName="">Czech</CZEC>
+    <HUNG checked="false" pakNo="1" nickName="">Hungarian</HUNG>
+    <RUSS checked="false" pakNo="1" nickName="">Russian</RUSS>
+    <CATA checked="false" pakNo="1" nickName="">Catalan</CATA>
+    <TURK checked="false" pakNo="1" nickName="">Turkish</TURK>
+    <PTBR checked="false" pakNo="1" nickName="">Brazilian Portuguese</PTBR>
+    <CSIM checked="false" pakNo="2" nickName="SC">Simplified Chinese</CSIM>
+    <CTRA checked="false" pakNo="2" nickName="TC">Traditional Chinese</CTRA>
+    <KORE checked="false" pakNo="2" nickName="K">Korean</KORE>
+  </SupportLang>
+  <!--Follow range's sort must same as batch file's defination!!!!!! -->
+  <OEM>
+    <GES checked="false" specialFlg="false">Gestetner</GES>
+    <INF checked="false" specialFlg="false">infotec</INF>
+    <LAN checked="false" specialFlg="false">LANIER</LAN>
+    <NRG checked="false" specialFlg="false">NRG</NRG>
+    <RICOH checked="true" specialFlg="true">RICOH</RICOH>
+    <SAVIN checked="false" specialFlg="false">SAVIN</SAVIN>
+  </OEM>
+  <!--Base on InterfaceRoot-->
+  <AllTestConfigCatFlg>Config\AllTestConfig.csv,8</AllTestConfigCatFlg>
+  <!--For copy nmake log to upload path-->
+  <ScanLogRoot>C:\log\</ScanLogRoot>
+  <UpLogName>nmake.log</UpLogName>
+  <!--For setup special package name range-->
+  <SpPkgNameSort>
+    <SC>1</SC>
+    <TC>2</TC>
+    <K>3</K>
+  </SpPkgNameSort>
+</driver>

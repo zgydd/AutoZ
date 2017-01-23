@@ -1,0 +1,151 @@
+11/27/2014::11:32:34 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:32:45 AM#####
+{{{Process start!!}}}
+11/27/2014::11:32:49 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:32:49 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:32:49 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:34:33 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:34:46 AM#####
+{{{Process start!!}}}
+11/27/2014::11:34:50 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:34:51 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:34:51 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:35:56 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:35:57 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:35:57 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:37:05 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:37:29 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:37:29 AM#####
+{{{UnCompress [CoronaC1_EXP_5EW32_V1000_20140228.exe]!!}}}
+11/27/2014::11:40:14 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:40:25 AM#####
+{{{   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at AutoZClient.Program.getDataFromFTP() in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 68
+   at AutoZClient.Program.mainProc() in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 167
+   at AutoZClient.Program.Main(String[] args) in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 265}}}
+11/27/2014::11:40:25 AM#####
+{{{AutoZ Client Finished!!}}}
+11/27/2014::11:40:33 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:40:43 AM#####
+{{{Process start!!}}}
+11/27/2014::11:40:47 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:40:47 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:40:47 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:41:13 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:41:13 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:41:13 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:41:24 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:41:24 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:41:24 AM#####
+{{{UnCompress [CoronaC1_EXP_5EW32_V1000_20140228.exe]!!}}}
+11/27/2014::11:44:23 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:44:34 AM#####
+{{{Process start!!}}}
+11/27/2014::11:44:38 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:44:38 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:44:38 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:45:00 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:45:25 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:45:25 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:45:45 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:46:01 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:46:01 AM#####
+{{{UnCompress [CoronaC1_EXP_5EW32_V1000_20140228.exe]!!}}}
+11/27/2014::11:47:09 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:47:19 AM#####
+{{{Process start!!}}}
+11/27/2014::11:47:24 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:47:24 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:47:24 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:47:30 AM#####
+{{{   at AutoZClient.Program.controlRecord(String strRecord, StringBuilder& sbMain) in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 111
+   at AutoZClient.Program.mainProc() in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 229
+   at AutoZClient.Program.Main(String[] args) in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 266}}}
+11/27/2014::11:47:30 AM#####
+{{{AutoZ Client Finished!!}}}
+11/27/2014::11:48:25 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:48:36 AM#####
+{{{Process start!!}}}
+11/27/2014::11:48:40 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:48:40 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:48:40 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:48:48 AM#####
+{{{   at AutoZClient.Program.controlRecord(String strRecord, StringBuilder& sbMain) in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 111
+   at AutoZClient.Program.mainProc() in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 229
+   at AutoZClient.Program.Main(String[] args) in E:\Build\AutoZ\Clint\AutoZClint\Program.cs:line 266}}}
+11/27/2014::11:48:48 AM#####
+{{{AutoZ Client Finished!!}}}
+11/27/2014::11:49:16 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:49:26 AM#####
+{{{Process start!!}}}
+11/27/2014::11:49:31 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:49:31 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:49:31 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:54:31 AM#####
+{{{AutoZ Client range start!!}}}
+11/27/2014::11:54:42 AM#####
+{{{Process start!!}}}
+11/27/2014::11:54:50 AM#####
+{{{Start to get config!!}}}
+11/27/2014::11:54:50 AM#####
+{{{Config data geted!!}}}
+11/27/2014::11:54:50 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:55:27 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_5EW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:55:38 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:55:39 AM#####
+{{{UnCompress [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:55:46 AM#####
+{{{Save and run config batch for [BaronC1VupP1EFI_EXP_XLW32_V1110_20141107.exe]!!}}}
+11/27/2014::11:55:53 AM#####
+{{{Do some clean!!}}}
+11/27/2014::11:55:53 AM#####
+{{{UnCompress [CoronaC1_EXP_5EW32_V1000_20140228.exe]!!}}}

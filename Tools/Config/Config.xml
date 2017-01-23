@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <SDFRoot>10.60.108.81/DB14/</SDFRoot>
+  <ShareRoot>\\zrfg016550.rfg.rfgad.ricoh.com\prndrv$\0\pub\MTI\Release\</ShareRoot>
+  <SpecPkgMark>_SCTCK</SpecPkgMark>
+  <MachineGroup>
+    <GranitePCL_06S value="06S">GranitePCL_06S</GranitePCL_06S>
+    <GranitePCL_06S_x64 value="06S_x64">GranitePCL_06S_x64</GranitePCL_06S_x64>
+    <GranitePCL_06A value="06A">GranitePCL_06A</GranitePCL_06A>
+    <GranitePCL_07S_EFI value="07S_EFI">GranitePCL_07S_EFI</GranitePCL_07S_EFI>
+    <GranitePCL_07A value="07A">GranitePCL_07A</GranitePCL_07A>
+    <GranitePCL_08S value="08S">GranitePCL_08S</GranitePCL_08S>
+    <GranitePCL_08A value="08A">GranitePCL_08A</GranitePCL_08A>
+    <GranitePCL_09S value="09S">GranitePCL_09S</GranitePCL_09S>
+    <GranitePCL_09A value="09A">GranitePCL_09A</GranitePCL_09A>
+    <GranitePCL_11A value="11A">GranitePCL_11A</GranitePCL_11A>
+    <GranitePCL_12S value="12S">GranitePCL_12S</GranitePCL_12S>
+    <GranitePCL_12A value="12A">GranitePCL_12A</GranitePCL_12A>
+    <GranitePCL_13S value="13S">GranitePCL_13S</GranitePCL_13S>
+    <GranitePCL_13A value="13A">GranitePCL_13A</GranitePCL_13A>
+    <GranitePCL_14S value="14S">GranitePCL_14S</GranitePCL_14S>
+    <GranitePCL_14A value="14A">GranitePCL_14A</GranitePCL_14A>
+    <GranitePCL_15Slater value="15Slater">GranitePCL_15Slater</GranitePCL_15Slater>
+  </MachineGroup>
+  <Machines>
+    <MartiniP2_NT2K group="06S" head="">MartiniP2</MartiniP2_NT2K>
+    <GaiaP2_NT2K group="06S" head="">GaiaP2</GaiaP2_NT2K>
+    <GaiaP2L group="06S" head="">GaiaP2L</GaiaP2L>
+    <GaiaP2_IKON group="06S" head="">GaiaP2LIKON</GaiaP2_IKON>
+    <ApollonP1_NT2K group="06S" head="">ApollonP1</ApollonP1_NT2K>
+    <ApollonP1_IKON group="06S" head="">ApollonP1IKON</ApollonP1_IKON>
+    <AdonisP4_NT2K group="06S" head="">AdonisP4</AdonisP4_NT2K>
+    <MartiniP2_x64 group="06S_x64" head="">MartiniP2</MartiniP2_x64>
+    <GaiaP2_x64 group="06S_x64" head="">GaiaP2</GaiaP2_x64>
+    <GaiaP2L_x64 group="06S_x64" head="">GaiaP2L</GaiaP2L_x64>
+    <ApollonP1_x64 group="06S_x64" head="">ApollonP1</ApollonP1_x64>
+    <ApollonP1_IKON group="06S_x64" head="">ApollonP1IKON</ApollonP1_IKON>
+    <AdonisP4_x64 group="06S_x64" head="">AdonisP4</AdonisP4_x64>
+    <ParisianC1_NT2K group="06A" head="">ParisianC1</ParisianC1_NT2K>
+    <SincereP1_NT2K group="06A" head="">SincereP1</SincereP1_NT2K>
+    <SincereP1_IKON group="06A" head="">SincereP1IKON</SincereP1_IKON>
+    <AriesP1Lt_PCL5 group="07S_EFI" head="">AriesP1Lt_PCL5</AriesP1Lt_PCL5>
+    <AriesP1Lt_PCL6 group="07S_EFI" head="">AriesP1Lt_PCL6</AriesP1Lt_PCL6>
+    <AriesP1.5VerUP_PCL5 group="07S_EFI" head="">AriesP1.5VerUP_PCL5</AriesP1.5VerUP_PCL5>
+    <AriesP1.5VerUP_PCL6 group="07S_EFI" head="">AriesP1.5VerUP_PCL6</AriesP1.5VerUP_PCL6>
+    <AriesP1.5_PCL5 group="07S_EFI" head="">AriesP1.5_PCL5</AriesP1.5_PCL5>
+    <AriesP1.5_PCL6 group="07S_EFI" head="">AriesP1.5_PCL6</AriesP1.5_PCL6>
+    <AriesC1Lt_PCL5 group="07S_EFI" head="">AriesC1Lt_PCL5</AriesC1Lt_PCL5>
+    <AriesC1Lt_PCL6 group="07S_EFI" head="">AriesC1Lt_PCL6</AriesC1Lt_PCL6>
+    <AriesC1.5VerUP_PCL5 group="07S_EFI" head="">AriesC1.5VerUP_PCL5</AriesC1.5VerUP_PCL5>
+    <AriesC1.5VerUP_PCL6 group="07S_EFI" head="">AriesC1.5VerUP_PCL6</AriesC1.5VerUP_PCL6>
+    <AriesC1.5_PCL5 group="07S_EFI" head="">AriesC1.5_PCL5</AriesC1.5_PCL5>
+    <AriesC1.5_PCL6 group="07S_EFI" head="">AriesC1.5_PCL6</AriesC1.5_PCL6>
+    <AriesP1_Phase2_PCL5 group="07S_EFI" head="">AriesP1_Phase2_PCL5</AriesP1_Phase2_PCL5>
+    <AriesP1_Phase2_PCL6 group="07S_EFI" head="">AriesP1_Phase2_PCL6</AriesP1_Phase2_PCL6>
+    <AriesC1_Phase2_PCL5 group="07S_EFI" head="">AriesC1_Phase2_PCL5</AriesC1_Phase2_PCL5>
+    <AriesC1_Phase2_PCL6 group="07S_EFI" head="">AriesC1_Phase2_PCL6</AriesC1_Phase2_PCL6>
+    <VenusC2EFI_Server_PCL5 group="07A" head="">VenusC2EFI_Server_PCL5</VenusC2EFI_Server_PCL5>
+    <VenusC2EFI_Server_PCL6 group="07A" head="">VenusC2EFI_Server_PCL6</VenusC2EFI_Server_PCL6>
+    <VenusC2EFI_PCL5 group="07A" head="">VenusC2EFI_PCL5</VenusC2EFI_PCL5>
+    <VenusC2EFI_PCL6 group="07A" head="">VenusC2EFI_PCL6</VenusC2EFI_PCL6>
+    <VenusC2_PCL5 group="07A" head="">VenusC2_PCL5</VenusC2_PCL5>
+    <VenusC2_PCL6 group="07A" head="">VenusC2_PCL6</VenusC2_PCL6>
+    <VenusC2_TEC group="07A" head="">VenusC2_TEC</VenusC2_TEC>
+    <RussianC5_NT2K group="07A" head="">RussianC5</RussianC5_NT2K>
+    <PegasusC2 group="07A" head="">PegasusC2</PegasusC2>	
+    <AlexP1 group="07A" head="">AlexP1</AlexP1>
+    <AlexC1_NT2K group="07A" head="">AlexC1</AlexC1_NT2K>
+    <GaiaP3 group="08S" head="">GaiaP3</GaiaP3>
+    <GaiaP3_IKON group="08S" head="">GaiaP3IKON</GaiaP3_IKON>
+    <DianaC1 group="08S" head="">DianaC1</DianaC1>
+    <DianaC1L group="08S" head="">DianaC1L</DianaC1L>
+    <DianaC1LL group="08S" head="">DianaC1LL</DianaC1LL>
+    <AthenaC2 group="08S" head="">AthenaC2</AthenaC2>
+    <ApollonC2 group="08S" head="">ApollonC2</ApollonC2>
+    <SincereP2 group="08A" head="">SincereP2</SincereP2>
+    <MartiniC4 group="08A" head="">MartiniC4</MartiniC4>
+    <BelliniC4 group="08A" head="">BelliniC4</BelliniC4>
+    <BelliniC4_TEC group="08A" head="">BelliniC4_TEC</BelliniC4_TEC>
+    <ApollonP2 group="08A" head="">ApollonP2</ApollonP2>
+    <StellaC4 group="09S" head="">StellaC4</StellaC4>
+    <StellaC4.5 group="09S" head="">StellaC4.5</StellaC4.5>
+    <RussianC5.5 group="09S" head="">RussianC5.5</RussianC5.5>
+    <KunsenP2 group="09S" head="">KunsenP2</KunsenP2>
+    <KrissP2 group="09S" head="">KrissP2</KrissP2>
+    <AlexC1.5 group="09S" head="">AlexC1.5</AlexC1.5>
+    <ZeusP1 group="09A" head="">ZeusP1</ZeusP1>
+    <ZeusC1 group="09A" head="">ZeusC1</ZeusC1>
+    <VenusC3EFI_PCL5 group="09A" head="">VenusC3EFI_PCL5</VenusC3EFI_PCL5>
+    <VenusC3EFI_PCL6 group="09A" head="">VenusC3EFI_PCL6</VenusC3EFI_PCL6>
+    <VenusC3 group="09A" head="">VenusC3</VenusC3>
+    <TaurusP1EFI_PCL5 group="09A" head="">TaurusP1EFI_PCL5</TaurusP1EFI_PCL5>
+    <TaurusP1EFI_PCL6 group="09A" head="">TaurusP1EFI_PCL6</TaurusP1EFI_PCL6>
+    <TaurusC1EFI_PCL5 group="09A" head="">TaurusC1EFI_PCL5</TaurusC1EFI_PCL5>
+    <TaurusC1EFI_PCL6 group="09A" head="">TaurusC1EFI_PCL6</TaurusC1EFI_PCL6>
+    <SincereP3 group="09A" head="">SincereP3</SincereP3>
+    <ShinkaP1 group="09A" head="">ShinkaP1</ShinkaP1>
+    <ShinkaMF1 group="09A" head="">ShinkaMF1</ShinkaMF1>
+    <OrvalC1 group="09A" head="">OrvalC1</OrvalC1>
+    <MidasP2 group="09A" head="">MidasP2</MidasP2>
+    <DianaC1.5 group="09A" head="">DianaC1.5</DianaC1.5>
+    <AthenaC2.5 group="09A" head="">AthenaC2.5</AthenaC2.5>
+    <ApollonC2.5 group="09A" head="">ApollonC2.5</ApollonC2.5>
+    <MartiniC5 group="11A" head="">MartiniC5</MartiniC5>
+    <AthenaC3_EFI_PCL5 group="11A" head="">AthenaC3_EFI_PCL5</AthenaC3_EFI_PCL5>
+    <AthenaC3_EFI_PCL6 group="11A" head="">AthenaC3_EFI_PCL6</AthenaC3_EFI_PCL6>
+    <AthenaC3 group="11A" head="">AthenaC3</AthenaC3>
+    <ApollonC3_EFI_PCL5 group="11A" head="">ApollonC3_EFI_PCL5</ApollonC3_EFI_PCL5>
+    <ApollonC3_EFI_PCL6 group="11A" head="">ApollonC3_EFI_PCL6</ApollonC3_EFI_PCL6>
+    <ApollonC3 group="11A" head="">ApollonC3</ApollonC3>
+    <AlexC2 group="11A" head="">AlexC2</AlexC2>
+    <AlexC2_SCTC group="11A" head="">AlexC2_SCTC</AlexC2_SCTC>
+    <StellaC5 group="12S" head="">StellaC5</StellaC5>
+    <KirC4 group="12S" head="">KirC4</KirC4>
+    <GriffinC1 group="12S" head="">GriffinC1</GriffinC1>
+    <ApollonP3 group="12S" head="">ApollonP3</ApollonP3>
+    <AlexP2 group="12S" head="">AlexP2</AlexP2>
+    <VestaP1 group="12A" head="">VestaP1</VestaP1>
+    <VestaP1_KIBO group="12A" head="">VestaP1_KIBO</VestaP1_KIBO>
+    <VestaMF1_KIBO group="12A" head="">VestaMF1_KIBO</VestaMF1_KIBO>
+    <TitanP1 group="12A" head="">TitanP1</TitanP1>
+    <OrvalC2 group="12A" head="">OrvalC2</OrvalC2>
+    <OrvalC2_Sindoh group="12A" head="">OrvalC2_Sindoh</OrvalC2_Sindoh>
+    <OrvalC2_SindohKor group="12A" head="">OrvalC2_SindohKor</OrvalC2_SindohKor>
+    <MetisC1 group="12A" head="">MetisC1</MetisC1>
+    <MetisC1_cde group="12A" head="">MetisC1_cde</MetisC1_cde>
+    <MetisC1_k group="12A" head="">MetisC1_k</MetisC1_k>
+    <MetisC1_yz group="12A" head="">MetisC1_yz</MetisC1_yz>
+    <MetisC1_KOR group="12A" head="">MetisC1_KOR</MetisC1_KOR>
+    <MetisC1_EFI_PCL5 group="12A" head="">MetisC1_EFI_PCL5</MetisC1_EFI_PCL5>
+    <MetisC1_EFI_PCL6 group="12A" head="">MetisC1_EFI_PCL6</MetisC1_EFI_PCL6>
+    <CharisC1Pro group="12A" head="">CharisC1Pro</CharisC1Pro>
+    <CharisC1Pro_EFI_PCL5 group="12A" head="">CharisC1Pro_EFI_PCL5</CharisC1Pro_EFI_PCL5>
+    <CharisC1Pro_EFI_PCL6 group="12A" head="">CharisC1Pro_EFI_PCL6</CharisC1Pro_EFI_PCL6>
+    <CharisC1Office group="12A" head="">CharisC1Office</CharisC1Office>
+    <CharisC1Office_EFI_PCL5 group="12A" head="">CharisC1Office_EFI_PCL5</CharisC1Office_EFI_PCL5>
+    <CharisC1Office_EFI_PCL6 group="12A" head="">CharisC1Office_EFI_PCL6</CharisC1Office_EFI_PCL6>
+    <BaronP1 group="12A" head="">BaronP1</BaronP1>
+    <BaronC1VerUp group="12A" head="">BaronC1VerUp</BaronC1VerUp>
+    <BaronC1VerUpP1_EFI_PCL5 group="12A" head="">BaronC1VerUpP1_EFI_PCL5</BaronC1VerUpP1_EFI_PCL5>
+    <BaronC1VerUpP1_EFI_PCL6 group="12A" head="">BaronC1VerUpP1_EFI_PCL6</BaronC1VerUpP1_EFI_PCL6>
+    <BaronC1 group="12A" head="">BaronC1</BaronC1>
+    <BaronC1_EFI_PCL5 group="12A" head="">BaronC1_EFI_PCL5</BaronC1_EFI_PCL5>
+    <BaronC1_EFI_PCL6 group="12A" head="">BaronC1_EFI_PCL6</BaronC1_EFI_PCL6>
+    <GimletP1 group="13S" head="">GimletP1</GimletP1>
+    <GimletP1_KIBO group="13S" head="">GimletP1_KIBO</GimletP1_KIBO>
+    <GimletMF1 group="13S" head="">GimletMF1</GimletMF1>
+    <GimletMF1dM group="13S" head="">GimletMF1dM</GimletMF1dM>
+    <GimletMF1_KIBO group="13S" head="">GimletMF1_KIBO</GimletMF1_KIBO>
+    <DaiquiriP1 group="13S" head="">DaiquiriP1</DaiquiriP1>
+    <ZeusC2 group="13A" head="">ZeusC2</ZeusC2>
+    <ZeusP2 group="14S" head="">ZeusP2</ZeusP2>
+    <ShinkaMF2 group="14S" head="">ShinkaMF2</ShinkaMF2>
+    <CoronaC1 group="14S" head="">CoronaC1</CoronaC1>
+    <AndromedaP1_EFI_PCL5 group="14A" head="">AndromedaP1_EFI_PCL5</AndromedaP1_EFI_PCL5>
+    <AndromedaP1_EFI_PCL6 group="14A" head="">AndromedaP1_EFI_PCL6</AndromedaP1_EFI_PCL6>	
+    <TaurusP2 group="14A" head="14A_">TaurusP2</TaurusP2>
+    <TaurusP2EFI_PCL5 group="14A" head="">TaurusP2EFI_PCL5</TaurusP2EFI_PCL5>
+    <TaurusP2EFI_PCL6 group="14A" head="">TaurusP2EFI_PCL6</TaurusP2EFI_PCL6>
+    <TaurusC2 group="14A" head="14A_">TaurusC2</TaurusC2>
+    <TaurusC2EFI_PCL5 group="14A" head="">TaurusC2EFI_PCL5</TaurusC2EFI_PCL5>
+    <TaurusC2EFI_PCL6 group="14A" head="">TaurusC2EFI_PCL6</TaurusC2EFI_PCL6>
+    <LeffeC1 group="15Slater" head="15S_">LeffeC1</LeffeC1>
+    <GriffinC2 group="15Slater" head="15S_">GriffinC2</GriffinC2>
+    <GriffinC2_KOR group="15Slater" head="15S_">GriffinC2_KOR</GriffinC2_KOR>
+    <MetisC2abcde group="15Slater" head="15S_">MetisC2cde</MetisC2abcde>
+    <MetisC2yz group="15Slater" head="15S_">MetisC2yz</MetisC2yz>
+    <MetisC2EFI_PCL5 group="15Slater" head="15S_">MetisC2EFI_PCL5</MetisC2EFI_PCL5>
+    <MetisC2EFI_PCL6 group="15Slater" head="15S_">MetisC2EFI_PCL6</MetisC2EFI_PCL6>
+  </Machines>
+  <Delivery>
+    <EXP>EXP</EXP>
+    <DOM>DOM</DOM>
+  </Delivery>
+  <PDL>
+    <PCL5C flg="5C" group="PCL5">PCL 5c</PCL5C>
+    <PCL5E flg="5E" group="PCL5">PCL 5e</PCL5E>
+    <PCL6 flg="XL" group="PCL6">PCL6</PCL6>
+  </PDL>
+  <NotShownedEFI>PCL6</NotShownedEFI>
+  <OS>
+    <flg32>W32</flg32>
+    <flg64>W64</flg64>
+  </OS>
+  <PkgType>
+    <exe>EXE</exe>
+    <zip>ZIP</zip>
+  </PkgType>
+  <MaxCoreVerNum>99</MaxCoreVerNum>
+  <Systems>
+    <xp needCat="0">Windows XP</xp>
+    <win2003 needCat="0">Windows Server 2003</win2003>
+    <win2003r2 needCat="0">Windows Server 2003R2</win2003r2>
+    <vista needCat="0">Windows Vista</vista>
+    <win2008 needCat="0">Windows Server 2008</win2008>
+    <win7 needCat="0">Windows 7</win7>
+    <win2008r2 needCat="0">Windows Server 2008R2</win2008r2>
+    <win8 needCat="1">Windows 8</win8>
+    <win8.1 needCat="1">Windows 8.1</win8.1>
+    <win2012 needCat="1">Windows Server 2012</win2012>
+    <win2012r2 needCat="1">Windows Server 2012R2</win2012r2>
+  </Systems>
+  <OEM>
+    <Gestetner>Gestetner</Gestetner>
+    <infotec>infotec</infotec>
+    <LANIER>LANIER</LANIER>
+    <NRG>NRG</NRG>
+    <RICOH>RICOH</RICOH>
+    <SAVIN>SAVIN</SAVIN>
+  </OEM>
+  <Lang>
+    <ENUS>English</ENUS>
+    <GERM>German</GERM>
+    <FREN>French</FREN>
+    <ITAL>Italian</ITAL>
+    <SPAN>Spanish</SPAN>
+    <DUTC>Dutch</DUTC>
+    <SWED>Swedish</SWED>
+    <DANI>Danish</DANI>
+    <NYNO>Norwegian</NYNO>
+    <PORT>Portuguese</PORT>
+    <FINN>Finnish</FINN>
+    <POLI>Polish</POLI>
+    <CZEC>Czech</CZEC>
+    <HUNG>Hungarian</HUNG>
+    <RUSS>Russian</RUSS>
+    <CATA>Catalan</CATA>
+    <TURK>Turkish</TURK>
+    <PTBR>Brazilian Portuguese</PTBR>
+    <CSIM>Simplified Chinese</CSIM>
+    <CTRA>Traditional Chinese</CTRA>
+    <KORE>Korean</KORE>
+  </Lang>
+  <PTClistHead>Spec,sdf,pkgNameFlg,UploadPath,OldPath,OldPackage32,OldPackage64,PackageName,PackageName64</PTClistHead>
+  <AllTestHead>OS,PackageName,Language,OEM,PnP,PDL,Version,CoreVer,NeedCat</AllTestHead>
+  <ResultRoot>Result\</ResultRoot>
+  <PTCListFile>PTClist.csv</PTCListFile>
+  <AllTestConfigFile>AllTestConfig.csv</AllTestConfigFile>
+  <ToolTips>
+    <Reload>Reload configration.</Reload>
+    <ChkBaseLine>Setup the Base Line informations.</ChkBaseLine>
+    <ModBaseLine>Modify the Base Line informations.</ModBaseLine>
+    <ToPath>Go to next page.(Upload path informations)</ToPath>
+    <ChkPath>Setup the upload path.</ChkPath>
+    <ModPath>Modify the upload path.</ModPath>
+    <ToDrvInfo>Go to next page.(Driver package informations)</ToDrvInfo>
+    <ChkPkg>Setup the driver package informations.</ChkPkg>
+    <ModPkg>Modify the driver package informations.</ModPkg>
+    <Finish>All setting completed. Order the configration.</Finish>
+    <Remove>Remove the selected configration order.</Remove>
+    <SinUp>Sign up the test plan to selecter configration order.</SinUp>
+    <Setted>All configration completed. Start to create config files.</Setted>
+    <AddPlan>Order this plan to selected Operation System.</AddPlan>
+  </ToolTips>
+</Config>

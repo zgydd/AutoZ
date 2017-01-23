@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<getter>
+  <StartFlg>start.txt</StartFlg>
+  <SharePath>E:\ShareE\FTPPath\share\</SharePath>
+  <LogPath>Log\</LogPath>
+  <TimeTick>10000</TimeTick>
+  <NeedFiles>AllTestConfig.csv;PTClist.csv;SrvsInfo.xml</NeedFiles>
+  <ToConfig>AllTestConfig.csv;langconfig_*.xls;SrvsInfo.xml</ToConfig>
+  <ToScript>PTClist.csv</ToScript>
+  <LangTestFlg>langconfig_*.xls</LangTestFlg>
+  <ConfigPath>E:\Build\AutoZ\AutoZ\Interface\Config\</ConfigPath>
+  <ScriptPath>E:\Build\AutoZ\AutoZ\Script\</ScriptPath>
+  <SrvInfo>SrvsInfo.xml</SrvInfo>
+  <SrvIpScript>UpLoadIPToServer.au3</SrvIpScript>
+  <UpLogScript>UpLoadLogToServer.au3</UpLogScript>
+</getter>

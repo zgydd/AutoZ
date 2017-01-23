@@ -1,0 +1,10 @@
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\ResolveAssemblyReference.cache
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\MakeConfig.Bean.CtrTestPage.resources
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\MakeConfig.Bean.CtrTestRecord.resources
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\MakeConfig.Main.resources
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\MakeConfig.Properties.Resources.resources
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\MakeConfig.csproj.GenerateResource.Cache
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\MakeConfig.exe
+E:\Build\AutoZ\Tools\MakeConfig\obj\Debug\MakeConfig.pdb
+E:\Build\AutoZ\Tools\MakeConfig.exe
+E:\Build\AutoZ\Tools\MakeConfig.pdb

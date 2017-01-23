@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunScan>
+  <PkgType>exe</PkgType>
+  <Au3sName>GetOfficeScanVersion-scan.au3</Au3sName>
+  <!--sc en-->
+  <TrendType>en</TrendType>
+  <LogPath>Log/runScanLog.log</LogPath>
+  <TempBatFileName>RunScan.bat</TempBatFileName>
+</RunScan>

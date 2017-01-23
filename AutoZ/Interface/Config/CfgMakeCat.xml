@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MakeCat>
+  <LogPath>Log/makeCatLog.log</LogPath>
+  <PackageType>exe</PackageType>
+  <CATFileFlg>CatalogFile=</CATFileFlg>
+  <CATDateFlg>DriverVer=</CATDateFlg>
+  <INFName>OEMSETUP.INF</INFName>
+  <Bit32Flg>W32</Bit32Flg>
+  <CatBase32>makeCat_x86.bat</CatBase32>
+  <CatBase64>makeCat_x64.bat</CatBase64>
+</MakeCat>
